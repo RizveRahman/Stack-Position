@@ -40,8 +40,8 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
       ),
       body: Container(
-        height: double.infinity,
-        width: double.infinity,
+        height: 200,
+        width: 350,
         color: Colors.grey,
         child: Stack(
           children: [
